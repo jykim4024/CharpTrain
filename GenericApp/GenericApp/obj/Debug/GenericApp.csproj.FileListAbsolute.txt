@@ -1,0 +1,7 @@
+C:\Git\CharpTrain\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Git\CharpTrain\GenericApp\GenericApp\bin\Debug\GenericApp.exe
+C:\Git\CharpTrain\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
+C:\Git\CharpTrain\GenericApp\GenericApp\obj\Debug\GenericApp.csprojAssemblyReference.cache
+C:\Git\CharpTrain\GenericApp\GenericApp\obj\Debug\GenericApp.csproj.CoreCompileInputs.cache
+C:\Git\CharpTrain\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+C:\Git\CharpTrain\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
